@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a185891-e74b-4cfa-8bca-279ced4b9030" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CexreKb7PLJ2nQWV7yeRAN7W6F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="check" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSearcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringSearcherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSearcherTest.checkIsSubset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringSearcherTest" />
+      <option name="METHOD_NAME" value="checkIsSubset" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.check" />
+        <item itemvalue="JUnit.StringSearcherTest" />
+        <item itemvalue="JUnit.StringSearcherTest.checkIsSubset" />
+        <item itemvalue="JUnit.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a185891-e74b-4cfa-8bca-279ced4b9030" name="Default Changelist" comment="" />
+      <created>1659177051809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659177051809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="42" key="#Project_Structure" timestamp="1659177890285">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="308" y="42" key="#Project_Structure/67.0.1299.768@67.0.1299.768" timestamp="1659177890285" />
+    <state x="159" y="92" width="1115" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1659182264966">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="159" y="92" width="1115" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.0.1299.768@67.0.1299.768" timestamp="1659182264966" />
+    <state x="331" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1659267256202">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="331" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.0.1299.768@67.0.1299.768" timestamp="1659267256201" />
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1659268324260">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/67.0.1299.768@67.0.1299.768" timestamp="1659268324260" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1659268324259">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.center/67.0.1299.768@67.0.1299.768" timestamp="1659268324259" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1659268324259">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.left/67.0.1299.768@67.0.1299.768" timestamp="1659268324259" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1659268324260">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.right/67.0.1299.768@67.0.1299.768" timestamp="1659268324260" />
+    <state width="1255" height="239" key="GridCell.Tab.1.bottom" timestamp="1659267578315">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.bottom/67.0.1299.768@67.0.1299.768" timestamp="1659267578315" />
+    <state width="1255" height="239" key="GridCell.Tab.1.center" timestamp="1659267578315">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.center/67.0.1299.768@67.0.1299.768" timestamp="1659267578315" />
+    <state width="1255" height="239" key="GridCell.Tab.1.left" timestamp="1659267578315">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.left/67.0.1299.768@67.0.1299.768" timestamp="1659267578315" />
+    <state width="1255" height="239" key="GridCell.Tab.1.right" timestamp="1659267578315">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="239" key="GridCell.Tab.1.right/67.0.1299.768@67.0.1299.768" timestamp="1659267578315" />
+    <state x="196" y="0" key="SettingsEditor" timestamp="1659177740848">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="196" y="0" key="SettingsEditor/67.0.1299.768@67.0.1299.768" timestamp="1659177740848" />
+    <state x="413" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659265145979">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="413" y="208" key="com.intellij.ide.util.TipDialog/67.0.1299.768@67.0.1299.768" timestamp="1659265145979" />
+    <state x="373" y="172" key="run.anything.popup" timestamp="1659267135852">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="373" y="172" key="run.anything.popup/67.0.1299.768@67.0.1299.768" timestamp="1659267135852" />
+  </component>
+</project>
