@@ -1,5 +1,5 @@
 # Leetcode 916
-## Topics: ForkJoin and tests
+## Word Subsets
 You are given two string arrays words1 and words2.
 
 A string b is a subset of string a if every letter in b occurs in a including multiplicity.
@@ -9,24 +9,19 @@ A string a from words1 is universal if for every string b in words2, b is a subs
 
 Return an array of all the universal strings in words1. You may return the answer in any order.
 
- 
-
 ### Example 1:
-
 <pre><code>
     Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["e","o"]
     Output: ["facebook","google","leetcode"]
 </code></pre>
 
 ### Example 2:
-
 <pre><code>
     Input: words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["l","e"]
     Output: ["apple","google","leetcode"]
 </code></pre> 
 
 ### Constraints:
-
 <ul>
     <li>1 <= words1.length, words2.length <= 104</li>
     <li>1 <= words1[i].length, words2[i].length <= 10</li>
